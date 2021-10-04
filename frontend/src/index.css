@@ -1,0 +1,18 @@
+.rating span {
+  margin: 0.15rem;
+}
+
+h3 {
+  font-size: 18px;
+  padding: 0.4rem 0;
+}
+
+.btn-buy {
+  margin: 1rem 0;
+  padding: 0.4rem 2rem;
+}
+
+.product-buy-btn {
+  background-color: pink;
+  color: black;
+}
