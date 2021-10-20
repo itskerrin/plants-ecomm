@@ -1,7 +1,5 @@
 import mongoose from 'mongoose';
 
-// pass in all fields we want to be in the user
-// then make the user model calling mongoose.model, naming it and passing in the userSchema we just made.
 const userSchema = mongoose.Schema(
   {
     name: {

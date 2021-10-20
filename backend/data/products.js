@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Orange Bouquet',
     image: '/images/orange-bouquet.jpg',
     description: 'A beautiful orange bouquet, perfect for spring.',
@@ -12,7 +11,6 @@ const products = [
     numReviews: 30,
   },
   {
-    _id: '2',
     name: 'Pink Bouquet',
     image: '/images/pink-bouquet.jpg',
     description: 'A small pink bouquet for birthdays or a simply a gift.',
@@ -24,7 +22,6 @@ const products = [
     numReviews: 18,
   },
   {
-    _id: '3',
     name: 'Rose Bouquet',
     image: '/images/rose-bouquet.jpg',
     description:
@@ -37,7 +34,6 @@ const products = [
     numReviews: 58,
   },
   {
-    _id: '4',
     name: 'Sunflowers',
     image: '/images/sunflowers.jpg',
     description:
@@ -50,7 +46,6 @@ const products = [
     numReviews: 120,
   },
   {
-    _id: '5',
     name: 'White Rose Bouquet',
     image: '/images/white-roses.jpg',
     description: 'Simple white roses. Contact the shop for bouquet options.',
@@ -62,7 +57,6 @@ const products = [
     numReviews: 26,
   },
   {
-    _id: '6',
     name: 'Table display',
     image: '/images/white.jpg',
     description:
